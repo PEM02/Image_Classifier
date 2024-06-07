@@ -88,9 +88,13 @@ The Image Classifier project processes a set of images by converting them to bin
   Contributions are welcome! Please fork this repository and submit a pull request for any improvements or bug fixes.
 
   -Fork the repository.
+  
   -Create a new branch (git checkout -b feature-branch).
+  
   -Commit your changes (git commit -am 'Add new feature').
+  
   -Push to the branch (git push origin feature-branch).
+  
   -Create a new pull request.
 
 
